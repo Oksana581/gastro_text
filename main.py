@@ -1,5 +1,3 @@
-
-# main.py
 import asyncio
 from config import settings
 from ai.content_generator import generate_post
