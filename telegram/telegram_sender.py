@@ -1,4 +1,3 @@
-
 from telegram import Bot
 from telegram.constants import ParseMode
 from config import settings
